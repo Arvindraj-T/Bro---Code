@@ -1,1 +1,1 @@
-This is my first Experience with Git HUb
+This is my first repository with Git Hub
